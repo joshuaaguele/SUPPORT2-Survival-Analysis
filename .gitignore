@@ -1,0 +1,8 @@
+# Generated results and local runtime files
+support2_results/
+support2_new_results/
+support2_new_results_fixed_groups/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
